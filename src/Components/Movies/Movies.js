@@ -10,5 +10,5 @@ export const Movies = ({ title, fetchUrl }) => {
     });
   });
 
-  return <div>Movies</div>;
+  return <div>Hello</div>;
 };
